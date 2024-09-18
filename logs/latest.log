@@ -1,42 +1,45 @@
-[169월2024 11:31:38.684] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
-[169월2024 11:31:38.695] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 22.0.1+8-16
-[169월2024 11:31:38.699] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 22.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[169월2024 11:31:38.825] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[169월2024 11:31:38.975] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[169월2024 11:31:39.254] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[169월2024 11:31:40.171] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
-[169월2024 11:31:40.590] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[169월2024 11:31:41.008] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[169월2024 11:31:46.565] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.15, for MC 1.21.1 with MCP 20240808.132146
-[169월2024 11:31:46.567] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.15 Initialized
-[169월2024 11:31:46.580] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[169월2024 11:31:47.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[169월2024 11:31:48.071] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[169월2024 11:31:48.148] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 52.0.15 Target: 52.0.15
-[169월2024 11:31:49.659] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
-[169월2024 11:31:49.841] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
-[169월2024 11:31:50.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
-[169월2024 11:31:50.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[169월2024 11:31:50.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[169월2024 11:31:50.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[169월2024 11:31:51.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 25.13.8.249:25565
-[169월2024 11:31:51.230] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
-[169월2024 11:31:51.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "PAYANG"
-[169월2024 11:31:52.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[169월2024 11:31:52.776] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[169월2024 11:31:52.904] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 439 ms
-[169월2024 11:31:52.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.587s)! For help, type "help"
-[169월2024 11:31:52.928] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[169월2024 12:14:44.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[169월2024 12:14:44.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stio<--[HERE]
-[169월2024 12:14:45.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[169월2024 12:14:45.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[169월2024 12:14:45.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[169월2024 12:14:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[169월2024 12:14:45.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PAYANG]'/minecraft:overworld
-[169월2024 12:14:45.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PAYANG]'/minecraft:the_nether
-[169월2024 12:14:45.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PAYANG]'/minecraft:the_end
-[169월2024 12:14:45.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (PAYANG): All chunks are saved
-[169월2024 12:14:45.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[169월2024 12:14:45.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[169월2024 12:14:45.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[169월2024 15:14:45.401] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
+[169월2024 15:14:45.403] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 22.0.1+8-16
+[169월2024 15:14:45.406] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 22.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[169월2024 15:14:45.533] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[169월2024 15:14:45.674] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[169월2024 15:14:45.966] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[169월2024 15:14:47.008] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
+[169월2024 15:14:47.366] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[169월2024 15:14:47.795] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/kiw60/Desktop/PAYANG/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[169월2024 15:14:54.889] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.15, for MC 1.21.1 with MCP 20240808.132146
+[169월2024 15:14:54.893] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.15 Initialized
+[169월2024 15:14:54.910] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[169월2024 15:14:55.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[169월2024 15:14:56.846] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[169월2024 15:14:57.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 52.0.15 Target: 52.0.15
+[169월2024 15:14:58.753] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[169월2024 15:14:58.980] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[169월2024 15:15:02.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[169월2024 15:15:02.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[169월2024 15:15:02.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[169월2024 15:15:02.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[169월2024 15:15:02.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 25.13.8.249:25565
+[169월2024 15:15:02.260] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[169월2024 15:15:02.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "PAYANG"
+[169월2024 15:15:03.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[169월2024 15:15:03.610] [Worker-Main-12/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[169월2024 15:15:03.800] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 503 ms
+[169월2024 15:15:03.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.458s)! For help, type "help"
+[169월2024 15:15:03.830] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[169월2024 15:16:36.015] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player kiw6024 is a03d7d6c-9f7f-46a2-965a-4da94dd5758a
+[169월2024 15:16:36.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kiw6024[/25.13.8.249:50223] logged in with entity id 12 at (-22.85878593422146, 109.0, -34.14191716335891)
+[169월2024 15:16:36.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiw6024 joined the game
+[169월2024 15:20:26.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kiw6024 lost connection: Disconnected
+[169월2024 15:20:26.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiw6024 left the game
+[169월2024 19:08:57.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[169월2024 19:08:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[169월2024 19:08:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[169월2024 19:08:58.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[169월2024 19:08:58.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PAYANG]'/minecraft:overworld
+[169월2024 19:08:58.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PAYANG]'/minecraft:the_end
+[169월2024 19:08:58.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[PAYANG]'/minecraft:the_nether
+[169월2024 19:08:58.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (PAYANG): All chunks are saved
+[169월2024 19:08:58.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[169월2024 19:08:58.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[169월2024 19:08:58.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
